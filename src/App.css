@@ -156,3 +156,17 @@ h2 {
 .severity-extremely-severe {
   color: rgb(255, 31, 31);
 }
+
+.button.submitted {
+  background-image:url("http://loadinggif.com/images/image-selection/4.gif");
+  background-position:5px;
+  background-repeat:no-repeat;
+  padding-left:30px;
+  padding-right:15px;
+}
+
+.button.error {
+  background-color:#dcc;
+  border-color:#c00;
+  color:#c00;
+}

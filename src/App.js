@@ -345,7 +345,7 @@ function App() {
 
 
         <div className="form-row">
-        <label htmlFor="selfFooling">I was worried about situationsin which I might panic and make a fool of myself</label>
+        <label htmlFor="selfFooling">I was worried about situations in which I might panic and make a fool of myself</label>
         <div>
         {generateRadioInputs('selfFooling', ['0', '1', '2', '3'], selfFooling, handleChangeSelfFooling)}
         </div>
